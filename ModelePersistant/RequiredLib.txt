@@ -1,0 +1,2 @@
+1)Hibernate/lib/required
+2)Postgresql
